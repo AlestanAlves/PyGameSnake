@@ -4,4 +4,4 @@
 
 ![2wd2v1](https://user-images.githubusercontent.com/48387196/54568561-71955b80-49b6-11e9-940c-25470f845661.gif)
 
-Tudo feito em Python3 e com pygame
+Tudo feito em Python3 + pygame
